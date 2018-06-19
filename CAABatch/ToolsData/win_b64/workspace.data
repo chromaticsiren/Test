@@ -1,0 +1,6 @@
+!<mkRTViewDataStat> v1.0.0
+RTV/001/CUS .\win_b64\code\bin\CAABatch.exe|.\CAABatchFW\CAABatch.m|16384@1527933397|CAABatchFW
+BTV/002/CUS .\win_b64\code\productIC\CAABatchFWIC.script|.\CAABatchFW|156@1527927379|CAABatchFW
+BTV/002/CUS .\win_b64\code\productIC\CAABatchFWIC.xml|.\CAABatchFW|537@1527927379|CAABatchFW
+RTV/002/DSI .\win_b64\code\productIC\CAABatchFWIC.required|.\CAABatchFW|944@1527927379|CAABatchFW
+INT/000/CUS .\win_b64\code\bin\CAABatch.pdb|.\CAABatchFW\CAABatch.m|1338368@1527933396|CAABatchFW

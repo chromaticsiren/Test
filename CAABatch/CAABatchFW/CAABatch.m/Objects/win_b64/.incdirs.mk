@@ -1,0 +1,7 @@
+/I"C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\CAABatch.m\src"
+/I"C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\CAABatch.m\LocalInterfaces"
+/I"C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\CAABatch.m\LocalGenerated\win_b64"
+/I"C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\ProtectedInterfaces"
+/I"C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\ImportedInterfaces\win_b64"
+/I"C:\PROGRA~2\DASSAU~1\B419\intel_a\.\tools\include\Windows"
+/I"C:\PROGRA~2\DASSAU~1\B419\intel_a\.\tools\include"

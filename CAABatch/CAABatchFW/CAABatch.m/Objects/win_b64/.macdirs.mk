@@ -1,0 +1,45 @@
+C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\CAABatch.m\src
+C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\CAABatch.m\LocalInterfaces
+C:\Personal\GitHub\3DSWorkspace\CAABatch\.\CAABatchFW\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\BSFBuildtimeData\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\BSFBuildtimeData\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATPLMComponentInterfaces\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATPLMComponentInterfaces\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIntegrationAccess\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\SpecialAPI\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\SpecialAPI\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\SpecialAPI\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\System\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\System\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\System\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\System\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIdentificationAccess\PrivateInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIdentificationAccess\PrivateGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIdentificationAccess\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIdentificationAccess\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIdentificationAccess\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATPLMIntegrationAccessItf\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATVirtualVaultSystem\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\CATVirtualVaultSystem\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\DataCommonProtocolUse\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\DataCommonProtocolUse\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\DataCommonProtocolUse\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerBase\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerBase\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerBase\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerBase\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerCollection\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerCollection\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerCollection\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerEngines\PrivateInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerEngines\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerEngines\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerInterfaces\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerInterfaces\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerSystem\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerSystem\ProtectedGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerSystem\PublicInterfaces
+C:\Program Files\Dassault Systemes\B419\.\ObjectModelerSystem\PublicGenerated\win_b64
+C:\Program Files\Dassault Systemes\B419\.\SystemTS\PrivateInterfaces
+C:\Program Files\Dassault Systemes\B419\.\SystemTS\ProtectedInterfaces
+C:\Program Files\Dassault Systemes\B419\.\SystemTS\PublicInterfaces

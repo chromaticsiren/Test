@@ -1,0 +1,9 @@
+!<mkRTViewData> v1.0.0
+INT/000/CUS .\win_b64\code\bin\CAABatch.pdb|.\CAABatchFW\CAABatch.m
+RTV/001/CUS .\win_b64\code\bin\CAABatch.exe|.\CAABatchFW\CAABatch.m
+CSC/000/DSI .\CAABatchFW\CAABatch.m\Objects\win_b64\mkcsc\CAABatch.cscdb|.\CAABatchFW\CAABatch.m
+@type='LOAD_MODULE'
+@clr='false'
+@kind='NATIVE'
+@deliverable='true'
+@built='true'

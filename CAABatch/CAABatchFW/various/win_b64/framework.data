@@ -1,0 +1,7 @@
+!<mkRTViewData> v1.0.0
+BTV/002/CUS .\win_b64\code\productIC\CAABatchFWIC.xml|.\CAABatchFW
+BTV/002/CUS .\win_b64\code\productIC\CAABatchFWIC.script|.\CAABatchFW
+CSC/002/DSI .\CAABatchFW\IdentityCard\Objects\win_b64\mkcsc\CAABatchFW.cscdb|.\CAABatchFW
+RTV/002/DSI .\win_b64\code\productIC\CAABatchFWIC.required|.\CAABatchFW
+@type='codeFramework'
+@built='true'
